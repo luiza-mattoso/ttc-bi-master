@@ -1,5 +1,3 @@
-# ttc-bi-master
-
 # Título do Trabalho
 
 #### Aluno: [Luiza Beatriz Mattoso](https://github.com/luiza-mattoso)
