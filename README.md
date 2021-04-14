@@ -3,7 +3,7 @@
 # Título do Trabalho
 
 #### Aluno: [Luiza Beatriz Mattoso](https://github.com/luiza-mattoso)
-#### Orientador(/a/es/as): [Leonardo Mendoza](https://github.com/leofome8)
+#### Orientador: [Leonardo Mendoza](https://github.com/leofome8)
 
 ---
 
