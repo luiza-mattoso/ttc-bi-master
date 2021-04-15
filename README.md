@@ -1,4 +1,4 @@
-# Título do Trabalho
+# Projeto de Classificação de Notícias em Português (BR)
 
 #### Aluno: [Luiza Beatriz Mattoso](https://github.com/luiza-mattoso)
 #### Orientador: [Leonardo Mendoza](https://github.com/leofome8)
@@ -13,15 +13,13 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho -->
+O Processamento de Linguagem Natural (PLN), ou em inglês Natural Language Processing (NLP), apesar de remeter a conceitos e concepções modernas, existem patentes nessa área datadas de 1930. Seu marco inicial ocorreu na década de 1950, quando Alan Turing publicou o artigo "Computing Machinery and Intelligence". Os primeiros desenvolvimentos de NLP tinham objetivo de relacionar palavras entre idiomas, similar a aplicação prática de tradutores. Desde então, muitos conceitos e abordagens foram desenvolvidos e aprimorados e, somando-se à grande evolução na área de software, foi possível chegarmos às implementações mais recentes de NLP. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Atualmente, com a difusão do conceito, existem inumeras abordagens utilizando NLP como, por exemplo: chatboots, ...
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+FALAR sobre NLP em português: desafios, avanços etc.
 
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Proin suscipit sapien in maximus feugiat. Suspendisse potenti. Nunc sollicitudin ultrices pharetra. Nunc volutpat in nunc ac sagittis. Sed eu turpis non elit sagittis tempus. Etiam sapien nunc, mattis non justo non, imperdiet malesuada sapien. Vestibulum enim magna, venenatis quis purus id, blandit ullamcorper nunc. Aenean ut neque vehicula, malesuada metus in, congue massa.
+Tendo como inspiração ..., o presente Trabalho de Conclusão de Curso tem como objetivo apresentar uma Proof of Concept (PoC), ou Prova de Conceito, utilizando diferentes algorítimos com o objetivo fim de encontrar a melhor modelagem capaz de classificar o resumo de uma notícia em português segundo um dos seguintes assuntos: economia, esportes, famosos, política e tecnologia.
 
 ---
 
