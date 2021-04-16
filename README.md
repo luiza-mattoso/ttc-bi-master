@@ -25,17 +25,6 @@ Machine Learning (ML) é um dos métodos amplamente utilizados em NLP e sua conc
 
 Tendo como inspiração o contexto dos avanços e desafios da NLP, o presente Trabalho de Conclusão de Curso tem como objetivo apresentar uma Proof of Concept (PoC), ou Prova de Conceito, utilizando diferentes algoritmos com o objetivo fim de encontrar a melhor modelagem para classificar o resumo de uma notícia em português do Brasil segundo um dos seguintes assuntos: economia, esportes, famosos, política e tecnologia.  
 
-Os algoritmos a serem testados serão:
-- Support Vector Machine (SVM)
-- Naive Bayes Gaussian
-- Naive Bayes Multinominal
-- Decision Tree
-- Stochastic Gradient Descent (SGD)
-- Light Gradient Boosting Machine (LGBM)
-- K-Nearest Neighbors (KNN)
-- Random Forest
-- Multilayer Perceptron (MLP)
-
 ---
 
 Matrícula: 191.671.048
