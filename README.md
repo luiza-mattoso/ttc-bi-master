@@ -23,7 +23,16 @@ No contexto dos desafios para aplicação da NLP em português do Brasil por exe
 
 FALAR sobre ML e Deep Learning & NLP
 
-Tendo como inspiração ..., o presente Trabalho de Conclusão de Curso tem como objetivo apresentar uma Proof of Concept (PoC), ou Prova de Conceito, utilizando diferentes algorítimos com o objetivo fim de encontrar a melhor modelagem capaz de classificar o resumo de uma notícia em português segundo um dos seguintes assuntos: economia, esportes, famosos, política e tecnologia.
+Tendo como inspiração ..., o presente Trabalho de Conclusão de Curso tem como objetivo apresentar uma Proof of Concept (PoC), ou Prova de Conceito, utilizando diferentes algorítimos com o objetivo fim de encontrar a melhor modelagem para classificar o resumo de uma notícia em português do Brasil segundo um dos seguintes assuntos: economia, esportes, famosos, política e tecnologia. Os algoritimos a serem testados serão:
+- Support Vector Machine (SVM)
+- Naive Bayes Gaussian
+- Naive Bayes Multinominal
+- Decision Tree
+- Stochastic Gradient Descent (SGD)
+- Light Gradient Boosting Machine (LGBM)
+- K-Nearest Neighbors (KNN)
+- Random Forest
+- Multilayer Perceptron (MLP)
 
 ---
 
