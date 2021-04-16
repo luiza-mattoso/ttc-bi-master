@@ -21,9 +21,11 @@ Apesar de todo o avanço nessa área, ainda existem desafios a serem superados. 
 
 No contexto dos desafios para aplicação da NLP em português do Brasil por exemplo, por sermos um país de tamanhas proporções e particularidades, temos diversas expressões e construções gramaticais que são usadas em uma localidade e que não são usadas em outra e, até mesmo, diferenças significativas entre os significados de palavras. Além disso, ainda existe a diferença entre a língua portuguesa do Brasil e a de Portugal e outros países, o que torna necessária a existência de abordagens distintas.  
 
-FALAR sobre ML e Deep Learning & NLP
+Machine Learning (ML) é um dos métodos amplamente utilizados em NLP e sua concepção pode ser compreendida numa alusão ao ensino de lingual natural a bebês, que com o passar do tempo e os ensinamentos e estímulos necessários, será capaz de interpretar e reproduzir de maneira melhor. O Deep Learning é outro método comumente utilizado em NLP com aplicações que envolvem Redes Neurais Recorrentes (RNNs), Multilayer Perceptrons (MLP), Long-Short Term Memory (LSTMs), entre outros. 
 
-Tendo como inspiração ..., o presente Trabalho de Conclusão de Curso tem como objetivo apresentar uma Proof of Concept (PoC), ou Prova de Conceito, utilizando diferentes algorítimos com o objetivo fim de encontrar a melhor modelagem para classificar o resumo de uma notícia em português do Brasil segundo um dos seguintes assuntos: economia, esportes, famosos, política e tecnologia. Os algoritimos a serem testados serão:
+Tendo como inspiração o contexto dos avanços e desafios da NLP, o presente Trabalho de Conclusão de Curso tem como objetivo apresentar uma Proof of Concept (PoC), ou Prova de Conceito, utilizando diferentes algoritmos com o objetivo fim de encontrar a melhor modelagem para classificar o resumo de uma notícia em português do Brasil segundo um dos seguintes assuntos: economia, esportes, famosos, política e tecnologia.  
+
+Os algoritmos a serem testados serão:
 - Support Vector Machine (SVM)
 - Naive Bayes Gaussian
 - Naive Bayes Multinominal
