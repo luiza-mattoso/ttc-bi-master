@@ -1,6 +1,6 @@
 # Projeto de NLP para Classificação de Notícias em Português (BR)
 
-#### Aluno: [Luiza Beatriz Mattoso](https://github.com/luiza-mattoso)
+#### Aluno: [Luiza Beatriz Mattoso Reis da Silva](https://github.com/luiza-mattoso)
 #### Orientador: [Leonardo Mendoza](https://github.com/leofome8)
 
 ---
